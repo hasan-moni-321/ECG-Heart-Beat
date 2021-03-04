@@ -1,11 +1,11 @@
  # Classifying ECG Heart Beat Using Tensorflow
 
 
- ### Accuracy and Loss during Training
+ ### Accuracy and Loss during Training  
  
- | epoch | train_acc  | train_loss | valid_acc |  valid_loss |
- |-------|------------|--------------------------------------
- | 12/30 | 0.8669     | 0.0.3436   | 0.7969    | 0.4844      |
+ | epoch | train_acc  | train_loss | valid_acc |  valid_loss |  
+ |-------|------------|---------------------------------------  
+ | 12/30 | 0.8669     | 0.0.3436   | 0.7969    | 0.4844      |  
 
 
  ### Figure of epoch, train_loss, valid_loss, error_rate, time
@@ -42,11 +42,11 @@
 
  # Classifying Abnormal and Normal of ECG Using Tensorflow CNN1
  
- ### Accuracy and Loss during Training
+ ### Accuracy and Loss during Training  
  
- | epoch | train_acc  | train_loss | valid_acc |  valid_loss |
- |-------|------------|--------------------------------------
- | 12/30 | 0.9976     | 0.0.0078   | 0.9961    | 0.0.0093    |      |
+ | epoch | train_acc  | train_loss | valid_acc |  valid_loss |  
+ |-------|------------|---------------------------------------  
+ | 12/30 | 0.9976     | 0.0.0078   | 0.9961    | 0.0.0093    |  
 
 
  ### Figure of model evaluation
